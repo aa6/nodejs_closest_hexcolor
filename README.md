@@ -146,6 +146,9 @@ var color_samples =
     "#000000": "Black",
 }
 
+var closest_color = closest_color("#60f99f", Object.keys(color_samples))
+// #66CDAA
+
 var closest_color = color_samples[closest_hexcolor("#60f99f", Object.keys(color_samples))]
 // "MediumAquamarine"
 
