@@ -8,6 +8,7 @@ npm install closest-hexcolor
 ```
 
 ```javascript
+var closest_hexcolor = require("closest-hexcolor")
 var color_samples = 
 {
     "#FFC0CB": "Pink",
