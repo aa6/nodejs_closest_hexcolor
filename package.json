@@ -1,5 +1,5 @@
 {
-    "name": "closes-hexcolor",
+    "name": "closest-hexcolor",
     "version": "0.0.1",
     "description": "Returns closest hex color for a specified color and list of color samples.",
     "main": "index.js",
