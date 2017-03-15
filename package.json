@@ -1,0 +1,27 @@
+{
+    "name": "closes-hexcolor",
+    "version": "0.0.1",
+    "description": "Returns closest hex color for a specified color and list of color samples.",
+    "main": "index.js",
+    "scripts": 
+    {
+        "test": "node tests/support/jasmine-runner.js"
+    },
+    "devDependencies": 
+    {
+        "jasmine": "2.5.2",
+        "jasmine-spec-reporter": "2.5.0"
+    },
+    "author": "aa6",
+    "license": "AGPL-3.0",
+    "bugs": 
+    {
+        "url": "https://github.com/aa6/nodejs_closest_hexcolor/issues"
+    },
+    "homepage": "https://github.com/aa6/nodejs_closest_hexcolor",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/aa6/nodejs_closest_hexcolor.git"
+    }
+}
