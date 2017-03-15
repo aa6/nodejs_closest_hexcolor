@@ -1,6 +1,12 @@
 # nodejs_closest_hexcolor [![Travis CI badge](https://travis-ci.org/aa6/nodejs_closest_hexcolor.svg?branch=master) Travis CI](https://travis-ci.org/aa6/nodejs_closest_hexcolor)
 Returns closest hex color for a specified color and list of color samples
 
+## Installation and Usage
+
+```bash
+npm install closest-hexcolor
+```
+
 ```javascript
 var color_samples = 
 {
